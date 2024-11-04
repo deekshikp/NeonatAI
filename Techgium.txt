@@ -1,0 +1,84 @@
+﻿Challenge
+Background
+In neonatal intensive care units (NICU), constant monitoring of infants' vital signs is crucial for their survival and health. Traditionally, this monitoring requires a medical attendant to be physically present, which can be resource-intensive. An example of the importance of such monitoring is the detection of a drop in SpO2 levels, which indicates a need for immediate oxygen therapy to prevent serious complications.
+Challenge / Requirement
+Develop an AI-based monitoring system for neonates in the ICU. This system would track not only the vital signs but also the sleep and activity patterns of the infants. Such a system would enable prompt medical intervention, allowing for the immediate response to emergencies, early detection of health abnormalities, and more effective treatment.
+Deliverables
+Develop application which records infant vital signs like respiratory rate (RR), heart rate (HR), temperature (T), blood pressure (BP), and oxygen saturation level (SpO2). Record Infant Active/Sleep patterns and inform on any abnormalities.
+
+
+Outline
+* Overview of AI in various fields ^
+* How monitoring will impact neonates for the better^
+* What should be monitored
+* Challenges faced during monitoring
+* Problem with wired sensor
+* What kind of AI technologies will be used for monitoring
+* Final statement/ conclusion
+
+
+Notes
+ increased risk of fatal decompensation.
+any delay in treatment or minor errors in medication dosage can overcomplicate patient health
+
+
+monitor and control airflow and ventilation with a thermostat. Computational fluid dynamics (CFD) simulations can be carried out to investigate the airflow and heat transfer taking place inside a neonatal intensive care unit (NICU)
+
+
+The development of artificial intelligence (AI) approaches impacted drug discovery, medical imaging, customized diagnostics, and therapeutics. Medicine will be transformed by AI. One such area of medicine where AI is significantly improving care is neonatology
+AI-driven electronic arrangements upgrade neonatal basic care by improving risk forecast, promising critical commitments to future health care.
+
+
+While AI affects daily life enormously, many clinicians may not be aware of how much of the work done with AI technologies may be put into effect in today’s healthcare system. In this review, we fill this gap, particularly for physicians in a relatively underexplored area of AI: neonatology. The origins of AI, specifically machine learning (ML), can be tracked all the way back to the 1950s, when Alan Turing invented the so-called “learning machine” as well as military applications of basic AI1. During his time, computers were huge, and the cost of increased storage space was astronomical. As a result, their capabilities, although substantial for their day, were restricted. 
+
+
+use of cloud-based storage allows healthcare professionals to access real-time data remotely, facilitating immediate responses to emergencies. The system's design prioritizes user-friendliness for clinicians and caregivers, ensuring that alerts regarding abnormal readings or significant changes in activity patterns are promptly communicated. This proactive approach not only supports timely medical interventions but also enhances the overall efficiency of neonatal care.
+
+
+By integrating machine learning techniques, the system can predict potential health deteriorations, reducing alarm fatigue among healthcare providers caused by excessive false alarms from traditional monitoring systems.
+Abstract[a] 
+The availability of huge amounts of data has led to the emergence of AI in different fields. The emergence of AI has made significant changes in the healthcare industry from drug discovery to medical imaging and therapeutics. Except for one thing that is left unexplored: neonatology. 
+
+
+In the Neonatal Intensive Care Units(NICU) the newborns require intense care and monitoring. If we did not attend to the needs of neonatal babies during an unexpected abnormal condition it could lead to fatal decomposition. Thus constant monitoring of neonates in NICU is an absolute must. Traditional methods involve an attendant being physically present to record the vital signals.
+
+
+The presence of wired sensors for monitoring vital signs causes heavy discomfort among the newborns. Thus in our AI powered monitoring system we aim to develop an application which records infant vital signs like respiratory rate (RR), heart rate (HR), temperature (T), blood pressure (BP), and oxygen saturation level (SpO2) using sensors. Hence we also reduce the manpower and make the NICU very resource efficient.
+ 
+By using machine learning and deep learning technologies we can predict potential health deteriorations like the detection of a drop in SpO2 levels, which indicates a need for immediate oxygen therapy to prevent serious complications. The project uses a cloud-based storage that allows healthcare professionals to access real-time data remotely, facilitating immediate responses to emergencies. The system's design prioritises user-friendliness for clinicians and caregivers, ensuring that alerts regarding abnormal readings or significant changes in activity patterns are promptly communicated. This proactive approach not only supports timely medical interventions but also enhances the overall efficiency of neonatal care.
+
+
+
+
+
+
+
+
+Keywords
+neonatal intensive care unit (NICU); sensor ; artificial intelligence (AI); machine learning (ML) IoT, Raspberry pi, deep learning, cloud technologies, real-time analytics
+Image
+
+
+  
+
+
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+Next steps
+Non invasive wearable
+Smart bed systems
+[a]1 total reaction
+DEEKSHITHA K P reacted with ✅ at 2024-10-23 00:55 AM
